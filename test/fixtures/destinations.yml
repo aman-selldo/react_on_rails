@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  location: MyString
+  arrival_date: 2025-03-13
+  arrival_time: MyString
+  : MyString
+  departure_date: 2025-03-13
+  departure_time: MyString
+
+two:
+  trip: two
+  location: MyString
+  arrival_date: 2025-03-13
+  arrival_time: MyString
+  : MyString
+  departure_date: 2025-03-13
+  departure_time: MyString

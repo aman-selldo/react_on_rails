@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: one
+  name: MyString
+  date: 2025-03-13
+  time: 2025-03-13 12:37:47
+
+two:
+  destination: two
+  name: MyString
+  date: 2025-03-13
+  time: 2025-03-13 12:37:47
